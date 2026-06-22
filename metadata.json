@@ -1,0 +1,6 @@
+{
+  "name": "Modin Investments",
+  "description": "A premium full-stack responsive corporate website for Modin Investments, developed by iWebNext, featuring interactive 3D visualizations, secure server-side AI chatbot assistance, and detailed investment opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
